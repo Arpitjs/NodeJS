@@ -1,0 +1,2 @@
+headers are extra info of the request and response
+header consist of content type and status
