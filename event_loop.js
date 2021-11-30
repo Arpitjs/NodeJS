@@ -1,5 +1,8 @@
 let fs = require('fs')
 
+// blocking === synchronous
+// non blocking code === asyncronous
+// we should not block the event loop
 //actually below's commented timers arent running
 // in the event loop because they arent 
 // running inisde a callback function
